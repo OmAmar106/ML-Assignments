@@ -12,3 +12,4 @@ This repository will contain all the assignments of the course MLT.
 - Week 6 : Ridge Regression
 - Week 7 : Decision Tree and KNN Algorithm
 - Week 8 : Bernoulli Naive Bayes and Gaussian Naive Bayes
+- Week 9 : Perceptron Algorithm
